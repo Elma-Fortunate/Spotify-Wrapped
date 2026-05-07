@@ -1,5 +1,8 @@
 # Spotify-Wrapped
 # My Sportify Wrapped 2025
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Spotify API](https://img.shields.io/badge/Spotify-API-green)
 🎶 Python | 📊 Power BI Dashboard
 
 ## Overview
